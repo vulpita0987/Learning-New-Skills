@@ -6,4 +6,4 @@ Resources used:
    Microsoft Copilot
    https://pokeapi.co/api/v2/
    https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
-3. 2. + Microsoft Copilot
+3. "2." and Microsoft Copilot
