@@ -8,5 +8,7 @@ Resources used:
    https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
 3. "2." and Microsoft Copilot
 4. "3." and Microsoft Copilot
-5. https://www.youtube.com/watch?v=-oPuGc05Lxs Maybe?
+5. https://www.youtube.com/watch?v=-oPuGc05Lxs
+   https://rickandmortyapi.com/documentation/
+   Microsoft Copilot
 6. https://www.youtube.com/watch?v=uRlik_-puEw Maybe?
