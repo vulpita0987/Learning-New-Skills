@@ -11,4 +11,5 @@ Resources used:
 5. https://www.youtube.com/watch?v=-oPuGc05Lxs
    https://rickandmortyapi.com/documentation/
    Microsoft Copilot
-6. https://www.youtube.com/watch?v=uRlik_-puEw Maybe?
+6. https://www.youtube.com/watch?v=uRlik_-puEw Maybe?https://www.youtube.com/watch?v=Xnbef8F_Yfc
+   Microsoft Copilot
