@@ -22,3 +22,5 @@ Resources used:
 10. https://www.youtube.com/watch?v=qbLc5a9jdXo -> to be continued
 11. https://www.youtube.com/watch?v=qbLc5a9jdXo
     Microsoft Copilot
+12. Microsoft Copilot
+13. Try starting a project?
