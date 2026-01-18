@@ -26,3 +26,10 @@ Resources used:
 13. https://www.geeksforgeeks.org/python/merge-two-pandas-dataframes-by-matched-id-number/
     Microsoft Copilot
 14. Microsoft Copilot
+15. "13."
+    https://www.w3schools.com/python/pandas/ref_df_duplicated.asp
+    https://www.geeksforgeeks.org/python/create-a-pandas-dataframe-from-lists/
+    https://sparkbyexamples.com/pandas/how-to-count-duplicates-in-pandas-dataframe/
+    https://www.codecademy.com/resources/docs/pandas/dataframe/drop-duplicates
+    https://www.geeksforgeeks.org/python/count-the-number-of-rows-and-columns-of-a-pandas-dataframe/
+    Microsoft Copilot
