@@ -38,3 +38,5 @@ Resources used:
     Microsoft Copilot
 18. "17."
     Microsoft Copilot
+19. https://www.geeksforgeeks.org/python/dataframe-to_excel-method-in-pandas/
+    Microsoft Copilot
