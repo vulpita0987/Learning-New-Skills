@@ -43,4 +43,8 @@ Resources used:
 20. https://www.geeksforgeeks.org/python/working-with-excel-files-using-pandas/
     https://www.geeksforgeeks.org/pandas/how-to-calculate-summary-statistics-in-pandas/
     https://www.geeksforgeeks.org/python/how-to-print-string-and-int-in-the-same-line-in-python/
+21. https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset?resource=download
+    https://www.geeksforgeeks.org/python/how-to-get-column-names-in-pandas-dataframe/
+    https://www.geeksforgeeks.org/pandas/how-to-calculate-summary-statistics-in-pandas/
+    https://www.geeksforgeeks.org/data-science/create-a-correlation-matrix-using-python/
 
