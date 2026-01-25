@@ -47,4 +47,6 @@ Resources used:
     https://www.geeksforgeeks.org/python/how-to-get-column-names-in-pandas-dataframe/
     https://www.geeksforgeeks.org/pandas/how-to-calculate-summary-statistics-in-pandas/
     https://www.geeksforgeeks.org/data-science/create-a-correlation-matrix-using-python/
+22. https://www.datacamp.com/tutorial/types-of-data-plots-and-how-to-create-them-in-python
+    Microsoft Copilot
 
