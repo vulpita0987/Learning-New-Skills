@@ -50,4 +50,7 @@ Resources used:
 22. https://www.datacamp.com/tutorial/types-of-data-plots-and-how-to-create-them-in-python
     Microsoft Copilot
 23. Microsoft Copilot
+24. https://numiqo.com/tutorial/test-of-normality
+    https://www.geeksforgeeks.org/data-science/normality-test/
+    Microsoft Copilot
 
