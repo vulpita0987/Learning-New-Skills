@@ -53,4 +53,8 @@ Resources used:
 24. https://numiqo.com/tutorial/test-of-normality
     https://www.geeksforgeeks.org/data-science/normality-test/
     Microsoft Copilot
+25. https://www.geeksforgeeks.org/data-science/anderson-darling-test/
+    https://support.minitab.com/en-us/minitab/help-and-how-to/statistics/basic-statistics/how-to/normality-test/interpret-the-results/key-results/
+    https://numiqo.com/tutorial/test-of-normality
+    Microsoft Copilot
 
