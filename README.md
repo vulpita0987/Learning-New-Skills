@@ -57,4 +57,6 @@ Resources used:
     https://support.minitab.com/en-us/minitab/help-and-how-to/statistics/basic-statistics/how-to/normality-test/interpret-the-results/key-results/
     https://numiqo.com/tutorial/test-of-normality
     Microsoft Copilot
+26. https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset?resource=download
+    Microsoft Copilot
 
