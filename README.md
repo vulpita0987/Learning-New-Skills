@@ -60,4 +60,7 @@ Resources used:
 26. https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset?resource=download
     Microsoft Copilot
 27. Microsoft Copilot
+28. https://numiqo.com/tutorial/spearman-correlation
+    https://geographyfieldwork.com/SpearmansRankCalculator.html
+    Microsoft Copilot
 
