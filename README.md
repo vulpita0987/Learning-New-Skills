@@ -71,5 +71,5 @@ Resources used:
 32. Microsoft Copilot
 33. Microsoft Copilot
 34. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
-35. 
+35. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
 
