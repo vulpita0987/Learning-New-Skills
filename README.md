@@ -74,5 +74,6 @@ Resources used:
 35. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
 36. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
 37. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
-38.commit?
+38. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
+    Microsoft Copilot
 
