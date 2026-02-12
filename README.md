@@ -77,4 +77,5 @@ Resources used:
 38. https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/
     Microsoft Copilot
 39. Microsoft Copilot
+40. https://www.geeksforgeeks.org/machine-learning/splitting-data-for-machine-learning-models/
 
