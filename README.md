@@ -78,4 +78,6 @@ Resources used:
     Microsoft Copilot
 39. Microsoft Copilot
 40. https://www.geeksforgeeks.org/machine-learning/splitting-data-for-machine-learning-models/
+41. https://www.techtarget.com/searchenterpriseai/definition/data-splitting
+    Microsoft Copilot
 
