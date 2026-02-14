@@ -80,4 +80,5 @@ Resources used:
 40. https://www.geeksforgeeks.org/machine-learning/splitting-data-for-machine-learning-models/
 41. https://www.techtarget.com/searchenterpriseai/definition/data-splitting
     Microsoft Copilot
+42. https://www.geeksforgeeks.org/machine-learning/support-vector-machine-algorithm/
 
