@@ -83,4 +83,5 @@ Resources used:
 42. https://www.geeksforgeeks.org/machine-learning/support-vector-machine-algorithm/
 43. https://medium.com/@bhagyashrilakhadive/introduction-to-support-vector-machine-svm-4946083b8052
 44. https://medium.com/@bhagyashrilakhadive/introduction-to-support-vector-machine-svm-4946083b8052
+45. https://medium.com/@bhagyashrilakhadive/introduction-to-support-vector-machine-svm-4946083b8052
 
