@@ -85,4 +85,5 @@ Resources used:
 44. https://medium.com/@bhagyashrilakhadive/introduction-to-support-vector-machine-svm-4946083b8052
 45. https://medium.com/@bhagyashrilakhadive/introduction-to-support-vector-machine-svm-4946083b8052
 46. https://www.geeksforgeeks.org/operating-systems/kernel-in-operating-system/
+47. https://www.geeksforgeeks.org/operating-systems/kernel-in-operating-system/
 
