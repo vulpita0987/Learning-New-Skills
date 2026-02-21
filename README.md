@@ -87,4 +87,6 @@ Resources used:
 46. https://www.geeksforgeeks.org/operating-systems/kernel-in-operating-system/
 47. https://www.geeksforgeeks.org/operating-systems/kernel-in-operating-system/
 48. https://www.geeksforgeeks.org/operating-systems/kernel-in-operating-system/
+49. https://docs.jupyter.org/en/stable/projects/kernels.html
+    https://www.geeksforgeeks.org/python/managing-jupyter-kernels-a-comprehensive-guide/
 
