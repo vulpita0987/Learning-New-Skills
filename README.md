@@ -92,3 +92,4 @@ Resources used:
 50. https://www.geeksforgeeks.org/python/managing-jupyter-kernels-a-comprehensive-guide/
 51. https://www.geeksforgeeks.org/python/managing-jupyter-kernels-a-comprehensive-guide/
 52. https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/
+53. https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/
