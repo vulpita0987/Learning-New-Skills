@@ -101,3 +101,5 @@ Resources used:
 59. https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/#
 60. https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/
 61. https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/
+62. https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/
+    https://nebius.com/blog/posts/epochs-in-day-to-day-ml-pipelines
