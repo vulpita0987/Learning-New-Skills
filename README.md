@@ -114,3 +114,4 @@ Resources used:
 71. https://www.truegeometry.com/api/exploreHTML?query=What%20is%20the%20key%20difference%20between%20a%20sharp%20minimum%20and%20a%20flat%20minimum%20in%20a%20loss%20landscape
 72. https://nebius.com/blog/posts/epoch-in-machine-learning
 73. https://nebius.com/blog/posts/epoch-in-machine-learning
+74. https://nebius.com/blog/posts/epoch-in-machine-learning
