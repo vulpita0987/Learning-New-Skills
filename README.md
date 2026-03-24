@@ -123,3 +123,4 @@ Resources used:
     https://www.youtube.com/watch?v=l_dph6Qu4LA
     https://www.youtube.com/watch?v=u-KY2d6Ak14
 79. Microsoft Copilot
+80. https://nebius.com/blog/posts/epoch-in-machine-learning
