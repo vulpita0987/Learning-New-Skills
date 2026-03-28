@@ -127,3 +127,6 @@ Resources used:
 81. https://nebius.com/blog/posts/epoch-in-machine-learning
 82. https://mljourney.com/what-is-convergence-in-machine-learning/
 83. https://mljourney.com/what-is-convergence-in-machine-learning/
+84. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
+    https://mljourney.com/what-is-convergence-in-machine-learning/
+    
