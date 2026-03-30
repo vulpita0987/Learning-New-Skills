@@ -130,3 +130,4 @@ Resources used:
 84. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
     https://mljourney.com/what-is-convergence-in-machine-learning/
 85. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
+86. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
