@@ -131,3 +131,5 @@ Resources used:
     https://mljourney.com/what-is-convergence-in-machine-learning/
 85. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
 86. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
+87. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
+    https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
