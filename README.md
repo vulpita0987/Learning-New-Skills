@@ -134,3 +134,4 @@ Resources used:
 87. https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/
     https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
 88. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
+89. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
