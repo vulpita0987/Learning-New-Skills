@@ -137,3 +137,4 @@ Resources used:
 89. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
 90. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
 91. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
+92. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
