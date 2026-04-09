@@ -141,3 +141,4 @@ Resources used:
 93. https://www.geeksforgeeks.org/deep-learning/understanding-pytorch-learning-rate-scheduling/
 94. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
 95. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
+96. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
