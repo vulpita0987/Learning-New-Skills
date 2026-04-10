@@ -142,3 +142,4 @@ Resources used:
 94. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
 95. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
 96. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
+97. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
