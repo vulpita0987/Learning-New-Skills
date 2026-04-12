@@ -144,3 +144,4 @@ Resources used:
 96. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
 97. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
 98. https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/
+99. https://www.geeksforgeeks.org/deep-learning/rmsprop-optimizer-in-deep-learning/
