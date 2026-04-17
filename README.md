@@ -149,3 +149,5 @@ Resources used:
 101. https://www.geeksforgeeks.org/deep-learning/rmsprop-optimizer-in-deep-learning/
 102. https://www.geeksforgeeks.org/deep-learning/rmsprop-optimizer-in-deep-learning/
 103. https://www.geeksforgeeks.org/deep-learning/adam-optimizer/
+104. https://www.geeksforgeeks.org/deep-learning/adam-optimizer/
+     https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
