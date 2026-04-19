@@ -152,3 +152,4 @@ Resources used:
 104. https://www.geeksforgeeks.org/deep-learning/adam-optimizer/
      https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
 105. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
+106. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
