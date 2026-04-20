@@ -153,3 +153,4 @@ Resources used:
      https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
 105. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
 106. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
+107. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
