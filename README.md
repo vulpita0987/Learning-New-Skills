@@ -156,3 +156,4 @@ Resources used:
 107. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
 108. https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/
      https://medium.com/@mplai/the-mathematics-of-epochs-in-machine-learning-without-the-math-jargon-887fc95596a1
+109. https://medium.com/@mplai/the-mathematics-of-epochs-in-machine-learning-without-the-math-jargon-887fc95596a1
