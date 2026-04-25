@@ -160,3 +160,4 @@ Resources used:
 110. https://medium.com/@mplai/the-mathematics-of-epochs-in-machine-learning-without-the-math-jargon-887fc95596a1
      https://www.geeksforgeeks.org/machine-learning/regularization-in-machine-learning/
 111. https://www.geeksforgeeks.org/machine-learning/regularization-in-machine-learning/
+112. https://www.geeksforgeeks.org/machine-learning/regularization-in-machine-learning/
