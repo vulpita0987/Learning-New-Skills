@@ -167,3 +167,4 @@ Resources used:
 116. https://www.geeksforgeeks.org/machine-learning/decision-tree/
 117. https://www.geeksforgeeks.org/machine-learning/decision-tree/
 118. https://www.geeksforgeeks.org/machine-learning/decision-tree/
+119. https://www.atlassian.com/work-management/project-management/decision-tree
