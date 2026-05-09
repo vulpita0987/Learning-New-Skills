@@ -175,4 +175,4 @@ Resources used:
 124. https://www.atlassian.com/work-management/project-management/decision-tree
 125. https://www.atlassian.com/work-management/project-management/decision-tree
      https://creately.com/guides/types-of-decision-trees/
-
+126. https://creately.com/guides/types-of-decision-trees/
