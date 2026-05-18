@@ -184,4 +184,5 @@ Resources used:
 132. https://creately.com/guides/types-of-decision-trees/
 133. https://creately.com/guides/types-of-decision-trees/
 134. https://creately.com/guides/types-of-decision-trees/
+135. https://www.geeksforgeeks.org/machine-learning/iterative-dichotomiser-3-id3-algorithm-from-scratch/
 
