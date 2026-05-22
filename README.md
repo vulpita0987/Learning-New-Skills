@@ -189,4 +189,5 @@ Resources used:
 137. https://www.geeksforgeeks.org/machine-learning/iterative-dichotomiser-3-id3-algorithm-from-scratch/
 138. https://www.geeksforgeeks.org/machine-learning/iterative-dichotomiser-3-id3-algorithm-from-scratch
      https://www.thundercompute.com/blog/shannon-entropy-machine-learning-guide
+139. https://www.thundercompute.com/blog/shannon-entropy-machine-learning-guide
 
