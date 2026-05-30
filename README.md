@@ -197,4 +197,6 @@ Resources used:
 144. https://www.thundercompute.com/blog/shannon-entropy-machine-learning-guide
 145. https://www.devlane.com/blog/cuda-toolkit-explained-how-gpu-computing-accelerates-ai-workloads
 146. https://www.devlane.com/blog/cuda-toolkit-explained-how-gpu-computing-accelerates-ai-workloads
+147. https://www.devlane.com/blog/cuda-toolkit-explained-how-gpu-computing-accelerates-ai-workloads
+148. 
 
