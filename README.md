@@ -198,5 +198,6 @@ Resources used:
 145. https://www.devlane.com/blog/cuda-toolkit-explained-how-gpu-computing-accelerates-ai-workloads
 146. https://www.devlane.com/blog/cuda-toolkit-explained-how-gpu-computing-accelerates-ai-workloads
 147. https://www.devlane.com/blog/cuda-toolkit-explained-how-gpu-computing-accelerates-ai-workloads
-148. 
+148. https://www.elementsofcomputerscience.com/posts/implementing-decision-trees-c45-algorithm-04/
+149. 
 
