@@ -210,5 +210,6 @@ Resources used:
 155. https://www.geeksforgeeks.org/machine-learning/cart-classification-and-regression-tree-in-machine-learning/
 156. https://www.geeksforgeeks.org/machine-learning/cart-classification-and-regression-tree-in-machine-learning/
 157. https://www.geeksforgeeks.org/machine-learning/cart-classification-and-regression-tree-in-machine-learning/
-158. 
+158. https://www.geeksforgeeks.org/machine-learning/gini-impurity-and-entropy-in-decision-tree-ml/
+159. 
 
