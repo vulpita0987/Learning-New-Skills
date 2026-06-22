@@ -224,4 +224,6 @@ Resources used:
 167. https://www.adience.com/blog/how-to/a-guide-to-chaid-a-decision-tree-algorithm-for-data-analysis/
 168. https://www.adience.com/blog/how-to/a-guide-to-chaid-a-decision-tree-algorithm-for-data-analysis/
 169. https://www.adience.com/blog/how-to/a-guide-to-chaid-a-decision-tree-algorithm-for-data-analysis/
+170. https://www.adience.com/blog/how-to/a-guide-to-chaid-a-decision-tree-algorithm-for-data-analysis/
+     https://www.ibm.com/docs/en/spss-modeler/18.1.1?topic=nodes-quest-node
 
