@@ -226,4 +226,6 @@ Resources used:
 169. https://www.adience.com/blog/how-to/a-guide-to-chaid-a-decision-tree-algorithm-for-data-analysis/
 170. https://www.adience.com/blog/how-to/a-guide-to-chaid-a-decision-tree-algorithm-for-data-analysis/
      https://www.ibm.com/docs/en/spss-modeler/18.1.1?topic=nodes-quest-node
+171. https://www.ibm.com/docs/en/spss-modeler/18.1.1?topic=nodes-quest-node
+     https://www.geeksforgeeks.org/machine-learning/cart-classification-and-regression-tree-in-machine-learning/
 
