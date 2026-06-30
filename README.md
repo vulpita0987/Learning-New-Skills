@@ -235,3 +235,5 @@ Resources used:
 176. https://www.geeksforgeeks.org/machine-learning/cart-classification-and-regression-tree-in-machine-learning/
      https://www.statology.org/multivariate-adaptive-regression-splines/
 177. https://www.statology.org/multivariate-adaptive-regression-splines/
+178. https://www.statology.org/multivariate-adaptive-regression-splines/
+     https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
