@@ -240,3 +240,5 @@ Resources used:
 179. https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
 180. https://www.geeksforgeeks.org/machine-learning/implementation-of-xgboost-extreme-gradient-boosting/
 181. https://www.geeksforgeeks.org/machine-learning/implementation-of-xgboost-extreme-gradient-boosting/
+182. https://www.geeksforgeeks.org/machine-learning/implementation-of-xgboost-extreme-gradient-boosting/
+     https://www.geeksforgeeks.org/machine-learning/lightgbm-light-gradient-boosting-machine/
