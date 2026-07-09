@@ -246,3 +246,4 @@ Resources used:
 184. https://www.geeksforgeeks.org/machine-learning/lightgbm-light-gradient-boosting-machine/
 185. https://www.geeksforgeeks.org/machine-learning/lightgbm-tree-parameters/
 186. https://www.geeksforgeeks.org/machine-learning/lightgbm-tree-parameters/
+187. https://www.geeksforgeeks.org/machine-learning/lightgbm-feature-parameters/
