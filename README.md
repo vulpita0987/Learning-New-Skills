@@ -264,3 +264,6 @@ Resources used:
 201. https://www.geeksforgeeks.org/machine-learning/lightgbm-regularization-parameters/
 202. https://www.geeksforgeeks.org/machine-learning/lightgbm-regularization-parameters/
 203. https://www.geeksforgeeks.org/machine-learning/lightgbm-regularization-parameters/
+204. https://www.geeksforgeeks.org/machine-learning/lightgbm-regularization-parameters/
+     https://www.geeksforgeeks.org/machine-learning/lightgbm-learning-control-parameters/
+205.
