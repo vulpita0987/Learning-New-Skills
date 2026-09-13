@@ -268,3 +268,6 @@ Resources used:
      https://www.geeksforgeeks.org/machine-learning/lightgbm-learning-control-parameters/
 205. https://www.geeksforgeeks.org/machine-learning/lightgbm-learning-control-parameters/
 206. https://www.geeksforgeeks.org/machine-learning/lightgbm-learning-control-parameters/
+207. https://www.geeksforgeeks.org/machine-learning/lightgbm-learning-control-parameters/
+     https://www.geeksforgeeks.org/machine-learning/cross-validation-machine-learning/
+208.
