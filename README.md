@@ -284,6 +284,6 @@ Resources used:
 218. https://www.geeksforgeeks.org/machine-learning/cross-validation-and-hyperparameter-tuning-of-lightgbm-model/
 219. https://www.geeksforgeeks.org/machine-learning/cross-validation-and-hyperparameter-tuning-of-lightgbm-model/
      https://www.geeksforgeeks.org/machine-learning/lightgbm-model-evaluation-metrics/
-220. ddd
+220. https://www.geeksforgeeks.org/machine-learning/lightgbm-model-evaluation-metrics/
      
 
