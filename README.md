@@ -303,5 +303,6 @@ Resources used:
 235. https://www.geeksforgeeks.org/machine-learning/lightgbm-histogram-based-learning/
 236. https://www.geeksforgeeks.org/machine-learning/lightgbm-histogram-based-learning/
 237. https://www.geeksforgeeks.org/machine-learning/lightgbm-histogram-based-learning/
+238. https://www.geeksforgeeks.org/machine-learning/handling-categorical-features-using-lightgbm/
      
 
