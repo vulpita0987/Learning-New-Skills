@@ -318,5 +318,6 @@ Resources used:
 250. https://www.geeksforgeeks.org/machine-learning/lightgbm-boosting-algorithms/
 251. https://www.geeksforgeeks.org/machine-learning/lightgbm-boosting-algorithms/
 252. https://www.geeksforgeeks.org/machine-learning/lightgbm-boosting-algorithms/
+253. https://www.geeksforgeeks.org/machine-learning/lightgbm-data-structure/
      
 
