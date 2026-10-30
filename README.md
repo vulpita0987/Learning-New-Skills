@@ -319,5 +319,8 @@ Resources used:
 251. https://www.geeksforgeeks.org/machine-learning/lightgbm-boosting-algorithms/
 252. https://www.geeksforgeeks.org/machine-learning/lightgbm-boosting-algorithms/
 253. https://www.geeksforgeeks.org/machine-learning/lightgbm-data-structure/
+
+Courses: 
+Part of Claude Code 101: https://academy.claude.com/courses/claude-code-101/mcp -> about MCP
      
 
