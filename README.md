@@ -323,5 +323,6 @@ Resources used:
 Courses: 
 Part of Claude Code 101: https://academy.claude.com/courses/claude-code-101/mcp -> about MCP
                          https://academy.claude.com/courses/claude-code-101/hooks -> about Hooks
+                         Badge -> https://academy.claude.com/badges/2f6eb807-3555-4963-b88d-b944790f2e9f
      
 
