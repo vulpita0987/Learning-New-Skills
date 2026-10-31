@@ -322,5 +322,6 @@ Resources used:
 
 Courses: 
 Part of Claude Code 101: https://academy.claude.com/courses/claude-code-101/mcp -> about MCP
+                         https://academy.claude.com/courses/claude-code-101/hooks -> about Hooks
      
 
