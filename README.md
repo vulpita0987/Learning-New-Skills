@@ -326,6 +326,7 @@ Part of Claude Code 101: https://academy.claude.com/courses/claude-code-101/mcp 
                          Badge -> https://academy.claude.com/badges/2f6eb807-3555-4963-b88d-b944790f2e9f
 Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-claude -> about What is Claude?
                     2. https://academy.claude.com/courses/claude-101/your-first-conversation-with-claude -> about Your first Conversation with Claude
+                    3. https://academy.claude.com/courses/claude-101/getting-better-results -> about Getting Better Results
                     
      
 
