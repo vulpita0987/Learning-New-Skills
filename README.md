@@ -327,6 +327,9 @@ Part of Claude Code 101: https://academy.claude.com/courses/claude-code-101/mcp 
 Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-claude -> about What is Claude?
                     2. https://academy.claude.com/courses/claude-101/your-first-conversation-with-claude -> about Your first Conversation with Claude
                     3. https://academy.claude.com/courses/claude-101/getting-better-results -> about Getting Better Results
+                    4. https://academy.claude.com/courses/claude-101/claude-desktop-app-chat-cowork-code -> about How to work with Claude on the Desktop
+                    5. 
+                    
                     
      
 
