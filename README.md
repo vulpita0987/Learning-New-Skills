@@ -329,7 +329,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
                     3. https://academy.claude.com/courses/claude-101/getting-better-results -> about Getting Better Results
                     4. https://academy.claude.com/courses/claude-101/claude-desktop-app-chat-cowork-code -> about How to work with Claude on the Desktop
                     5. https://academy.claude.com/courses/claude-101/introduction-to-projects -> Introduction to Projects
-                    6.
+                    6. https://academy.claude.com/courses/claude-101/creating-with-artifacts -> Creating with Artifacts
+                    7. 
                     
                     
      
