@@ -331,7 +331,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
                     5. https://academy.claude.com/courses/claude-101/introduction-to-projects -> Introduction to Projects
                     6. https://academy.claude.com/courses/claude-101/creating-with-artifacts -> Creating with Artifacts
                     7. https://academy.claude.com/courses/claude-101/working-with-skills -> Working with Skills
-                    8.
+                    8. https://academy.claude.com/courses/claude-101/connecting-your-tools -> Connecting your Tools
+                    9.
                     
                     
      
