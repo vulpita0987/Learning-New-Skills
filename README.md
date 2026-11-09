@@ -332,7 +332,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
                     6. https://academy.claude.com/courses/claude-101/creating-with-artifacts -> Creating with Artifacts
                     7. https://academy.claude.com/courses/claude-101/working-with-skills -> Working with Skills
                     8. https://academy.claude.com/courses/claude-101/connecting-your-tools -> Connecting your Tools
-                    9.
+                    9. https://academy.claude.com/courses/claude-101/enterprise-search -> Enterprise Search
+                    10. 
                     
                     
      
