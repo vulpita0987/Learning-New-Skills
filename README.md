@@ -335,7 +335,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
                     9. https://academy.claude.com/courses/claude-101/enterprise-search -> Enterprise Search
                     10. https://academy.claude.com/courses/claude-101/research-mode-for-deep-dives -> Research Made for Deep Dives
                     11. https://academy.claude.com/courses/claude-101/claude-in-action-use-cases-by-role -> Claude in Action Use Cases by Role
-                    12. 
+                    12. https://academy.claude.com/courses/claude-101/other-ways-to-work-with-claude -> Other Ways to Work with Claude
+                    13. 
                     
                     
      
