@@ -336,7 +336,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
                     10. https://academy.claude.com/courses/claude-101/research-mode-for-deep-dives -> Research Made for Deep Dives
                     11. https://academy.claude.com/courses/claude-101/claude-in-action-use-cases-by-role -> Claude in Action Use Cases by Role
                     12. https://academy.claude.com/courses/claude-101/other-ways-to-work-with-claude -> Other Ways to Work with Claude
-                    13. 
+                    13. https://academy.claude.com/courses/claude-101/what-s-next -> what is next?
+                    Badge -> https://academy.claude.com/badges/6cdd3b99-38a9-4e6f-a0fc-6c056f3d632f
                     
                     
      
