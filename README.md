@@ -339,7 +339,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
                     13. https://academy.claude.com/courses/claude-101/what-s-next -> what is next?
                     Badge -> https://academy.claude.com/badges/6cdd3b99-38a9-4e6f-a0fc-6c056f3d632f
 Part of AI Fluency Framework Foundations (Anthropic): 1. https://academy.claude.com/courses/ai-fluency-framework-foundations/introduction-to-ai-fluency -> Introduction to AI Fluency
-                                          2. 
+                                                      2. https://academy.claude.com/courses/ai-fluency-framework-foundations/why-do-we-need-ai-fluency -> Why do we Need AI Fluency?
+                                                      3. 
                     
                     
      
