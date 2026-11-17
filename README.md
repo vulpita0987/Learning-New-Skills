@@ -341,7 +341,8 @@ Part of Claude 101: 1. https://academy.claude.com/courses/claude-101/what-is-cla
 Part of AI Fluency Framework Foundations (Anthropic): 1. https://academy.claude.com/courses/ai-fluency-framework-foundations/introduction-to-ai-fluency -> Introduction to AI Fluency
                                                       2. https://academy.claude.com/courses/ai-fluency-framework-foundations/why-do-we-need-ai-fluency -> Why do we Need AI Fluency?
                                                       3. https://academy.claude.com/courses/ai-fluency-framework-foundations/the-4d-framework -> The 4D Framework
-                                                      4. 
+                                                      4. https://academy.claude.com/courses/ai-fluency-framework-foundations/generative-ai-fundamentals -> Generative AI Fundamentals
+                                                      5. 
                     
                     
      
