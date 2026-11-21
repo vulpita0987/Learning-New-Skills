@@ -345,7 +345,8 @@ Part of AI Fluency Framework Foundations (Anthropic): 1. https://academy.claude.
                                                       5. https://academy.claude.com/courses/ai-fluency-framework-foundations/capabilities-limitations -> Capabilities and Limitations
                                                       6. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-delegation -> A Closer look at Delegation
                                                       7. https://academy.claude.com/courses/ai-fluency-framework-foundations/project-planning-and-delegation -> Project Planning and Delegation
-                                                      8. 
+                                                      8. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-description -> A Closer Look at Description
+                                                      9. 
                     
                     
      
