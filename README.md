@@ -346,7 +346,8 @@ Part of AI Fluency Framework Foundations (Anthropic): 1. https://academy.claude.
                                                       6. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-delegation -> A Closer look at Delegation
                                                       7. https://academy.claude.com/courses/ai-fluency-framework-foundations/project-planning-and-delegation -> Project Planning and Delegation
                                                       8. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-description -> A Closer Look at Description
-                                                      9. 
+                                                      9. https://academy.claude.com/courses/ai-fluency-framework-foundations/effective-prompting-techniques -> Effective Prompting Techniques
+                                                      10. 
                     
                     
      
