@@ -349,7 +349,8 @@ Part of AI Fluency Framework Foundations (Anthropic): 1. https://academy.claude.
                                                       9. https://academy.claude.com/courses/ai-fluency-framework-foundations/effective-prompting-techniques -> Effective Prompting Techniques
                                                       10. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-discernment -> A Closer Look at Discernment
                                                       11. https://academy.claude.com/courses/ai-fluency-framework-foundations/the-description-discernment-loop -> The Description Discernment Loop
-                                                      12. 
+                                                      12. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-diligence -> A Closer Look at Diligence
+                                                      13. 
                     
                     
      
