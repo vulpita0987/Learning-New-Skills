@@ -351,7 +351,7 @@ Part of AI Fluency Framework Foundations (Anthropic): 1. https://academy.claude.
                                                       11. https://academy.claude.com/courses/ai-fluency-framework-foundations/the-description-discernment-loop -> The Description Discernment Loop
                                                       12. https://academy.claude.com/courses/ai-fluency-framework-foundations/a-closer-look-at-diligence -> A Closer Look at Diligence
                                                       13. https://academy.claude.com/courses/ai-fluency-framework-foundations/conclusion -> AI Fluency Framework Foundation
-                                                      14. 
+                                                      Badge -> https://academy.claude.com/badges/ba5f00e1-cccf-434c-863c-920bbd3015f1
                     
                     
      
